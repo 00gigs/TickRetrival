@@ -21,7 +21,7 @@ https://apistocks.p.rapidapi.com/intraday
 
 
 --api_key--
-'f0fb454bccmsh5dd8f95149ffa65p1f9ad6jsn0a2a30d55dda'
+''
 
 
 --focus--
